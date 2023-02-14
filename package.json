@@ -1,0 +1,17 @@
+{
+  "name": "javascript-data-structures-algorithms",
+  "version": "1.0.0",
+  "description": "javascript data structures and algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "algorithms",
+    "javascript"
+  ],
+  "author": "@anreb",
+  "license": "ISC"
+}
